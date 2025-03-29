@@ -12,3 +12,6 @@ https://docs.google.com/document/d/1I168G0i1f-ZAlEMgussWENpEenk9kVpmkFNbOO8eXmQ/
 This is a written report for anyone interested in the project.
 Includes: Mission Statement, Motivation, Financing, Execution, Recon, References, Literature Review
 
+https://docs.google.com/document/d/1KHP9PBWnJzIPHEwjgNgCWNbYVlX6TV593dDbdM6zYwU/edit?usp=sharing
+This is the experimental design for all five experiments
+Each section includes: Motivation, Background, Materials, Methods
